@@ -8,7 +8,8 @@ Active user of [EndeavourOS](https://endeavouros.com/) GNU/Linux. I also tried [
 
 My studies:
 - Higher Technician in Microcomputer Systems and Networks.
-- My studying goals are:
+
+My studying goals are:
 - Higher Technician in Networked Computer Systems Administration (Currently pursuing).
 - B.S. in Computer Engineering.
 - CPTS (Certified Professional Penetration Tester) (In progress).
