@@ -2,9 +2,9 @@
 
 Three years of experience on IT and TCP/IP networking as a student and 1 year as a Windows sysadmin (never touching that again in my life).
 
-Familiarized with Python scripting, shell scripting (bash), Linux systems and upgrades.
+Familiarized with enterprise Linux, Python scripting, shell scripting (bash), Linux systems and upgrades.
 
-Active user of [EndeavourOS](https://endeavouros.com/) GNU/Linux. I also tried [Debian](https://www.debian.org/), [FreeDOS](https://www.freedos.org/), [FreeBSD](https://www.freebsd.org/) and [Minix](https://www.minix3.com).
+Active user of [EndeavourOS](https://endeavouros.com/) GNU/Linux. I also tried [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), [Debian](https://www.debian.org/), [FreeDOS](https://www.freedos.org/), [FreeBSD](https://www.freebsd.org/) and [Minix](https://www.minix3.com).
 
 My studies:
 - Higher Technician in Microcomputer Systems and Networks.
