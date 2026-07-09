@@ -1,6 +1,6 @@
 > If you like what I do, check my page at [lilcarpi.com](https://lilcarpi.com).
 
-Three years of experience on IT and TCP/IP networking as a student and 1 year as a Windows sysadmin (never touching that again in my life).
+Three years of experience in IT and TCP/IP networking as a student and 1 year as a Windows sysadmin (never touching that again in my life).
 
 Familiarized with enterprise Linux, Python scripting, shell scripting (bash), Linux systems and upgrades.
 
@@ -20,7 +20,7 @@ My Personal goals:
 - Finish [LilCMS](https://github.com/Lil-Carpi/LilCMS).
 - Emigrate to New Zealand.
 - Having some Crema Catalana right now.
-- 1 kilo of olives.
+- Having 1 kilo of olives.
 
 
 
