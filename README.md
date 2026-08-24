@@ -26,7 +26,7 @@ My studying goals are:
 
 
 My Personal goals:
-- On ground Tech tree: Type 90, and the F-2 on Air tech tree (Praise the Snail).
+- On ground Tech tree: Type 90, and the F-2 on Air tech tree (Praising the Snail since 2023).
 - Finish [LilCMS](https://github.com/Lil-Carpi/LilCMS).
 - Emigrate to New Zealand.
 - Having some Crema Catalana right now.
