@@ -32,7 +32,17 @@ My Personal goals:
 - Having some Crema Catalana right now.
 - Having 1 kilo of olives.
 
+---
+*Acknowledgments*
 
+Thanks to all my teachers from Thos i Codina that taught me everything that I know, and there is a special place in my heart for these teachers in particular:
+- Nicolás Quesada, for inspiring and believing in me at all times, and for being the one who taught me everything about Linux and Open Source.
+- Miguel Ángel Hornos Milán, for teaching me everything about networking.
+- Jordi Tarridas, for teaching me everything about services (DNS, etc).
+- [Ramón López](https://proferamon.com/), for being patient with me and teaching me PHP.
+- Teresa Gistau, for teaching me a lot of things about web development.
+
+From the bottom of my heart, thank you all.
 
 
 <!--
