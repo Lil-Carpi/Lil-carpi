@@ -35,7 +35,7 @@ My Personal goals:
 ---
 *Acknowledgments*
 
-Thanks to all my teachers from Thos i Codina that taught me everything that I know, and there is a special place in my heart for these teachers in particular:
+Thanks to all my teachers from Thos i Codina that taught me everything that I know, and there is a special place in my heart for these legends:
 - Nicolás Quesada, for inspiring and believing in me at all times, and for being the one who taught me everything about Linux and Open Source.
 - Miguel Ángel Hornos Milán, for teaching me everything about networking.
 - Jordi Tarridas, for teaching me everything about services (DNS, etc).
