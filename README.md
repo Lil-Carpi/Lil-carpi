@@ -1,3 +1,4 @@
+> Also known as: "Lil_Carpi", "lilcarpi" or just "Carpi".
 > If you like what I do, check my page at [lilcarpi.com](https://lilcarpi.com).
 
 Three years of experience in IT and TCP/IP networking as a student and 1 year as a Windows sysadmin (never touching that again in my life).
