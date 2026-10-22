@@ -11,7 +11,8 @@ I also do:
 Basic vulnerability assessment, password hashing protocols and security advisory reporting.
 
 
-Active user of [EndeavourOS](https://endeavouros.com/) GNU/Linux. I also tried [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (I really love SELinux), [Debian](https://www.debian.org/), [FreeDOS](https://www.freedos.org/), [FreeBSD](https://www.freebsd.org/) and [Minix](https://www.minix3.com).
+Active user of [Fedora](https://fedoraproject.org) GNU/Linux. I also tried [EndeavourOS](https://endeavouros.com/), [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (I really love SELinux), [Debian](https://www.debian.org/), [FreeDOS](https://www.freedos.org/), [FreeBSD](https://www.freebsd.org/) and [Minix](https://www.minix3.com).
+
 
 My studies:
 - Higher Technician in Microcomputer Systems and Networks.
@@ -22,6 +23,9 @@ My studying goals are:
 - CPTS (Certified Professional Penetration Tester) (In progress).
 - RHCSA (Red Hat Certified System Administrator).
 
+Main Projects:
+- [LilCMS](https://github.com/Lil-Carpi/LilCMS)
+- [PowerHelp](https://github.com/Lil-Carpi/PowerHelp)
 
 My Personal goals:
 - On ground Tech tree: Type 90, and the F-2 on Air tech tree (Praising the Snail since 2023).
