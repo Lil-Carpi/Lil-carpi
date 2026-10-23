@@ -22,6 +22,8 @@ My studying goals are:
 - B.S. in Computer Engineering.
 - CPTS (Certified Professional Penetration Tester) (In progress).
 - RHCSA (Red Hat Certified System Administrator).
+- GNOME Project contributor
+- Linux Kernel Maintainer
 
 Main Projects:
 - [LilCMS](https://github.com/Lil-Carpi/LilCMS)
