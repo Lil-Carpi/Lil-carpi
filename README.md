@@ -29,7 +29,7 @@ My studying goals are:
 
 Main Projects:
 - [LilCMS](https://github.com/Lil-Carpi/LilCMS)
-- [PowerHelp](https://github.com/Lil-Carpi/PowerHelp) - Latest
+- [PowerHelp](https://github.com/Lil-Carpi/PowerHelp) - [Latest](https://lilcarpi.com/powerhelp)
 
 My Personal goals:
 - On ground Tech tree: Type 90, and the F-2 on Air tech tree (Praising the Snail since 2023).
